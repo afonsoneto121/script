@@ -11,4 +11,4 @@ CFLAGS="-march=native" ./configure
 make
 sudo make install
 
-screen ./minerd -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45550 -u afonsoneto121@gmail.com -p x
+screen ./minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u afonsoneto121@gmail.com -p x
